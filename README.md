@@ -32,7 +32,7 @@ I enjoy designing systems, automating workflows, and understanding how things wo
 > Stats may lag due to GitHub API caching.  
 > Consistency > streaks.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Rauneet-coder&theme=dark)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rauneet-coder&theme=dark)
 
 ---
