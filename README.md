@@ -1,92 +1,74 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Rauneet%20Singh%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Backend-focused%20Web%20Developer%20|%20System%20Design%20Enthusiast&descAlignY=58&descAlign=62" alt="Header" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Backend+Services+%26+APIs;Automating+Workflows+using+n8n;Learning+DevOps+Fundamentals;Exploring+System+Design+%26+Scalability" alt="Typing SVG" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset=".github/profile/hero-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset=".github/profile/hero-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset=".github/profile/hero-dark.svg">
+  <img src=".github/profile/hero-light.svg" width="100%" alt="Rauneet Singh — backend development, DevOps and open source. From code to delivery to observability.">
+</picture>
 
 <p align="center">
-  <a href="https://github.com/Rauneet-coder">
-    <img src="https://komarev.com/ghpvc/?username=Rauneet-coder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="https://github.com/jenkinsci/jenkins/pull/26966">Jenkins contribution</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/rauneet-singh-85369428b/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:rauneetsingh1903@gmail.com">Get in touch</a>
 </p>
 
----
+## From API to infrastructure
 
-## 👨‍💻 About Me
-I’m a **backend-focused web developer** with hands-on experience building real projects using **Node.js**, **Express**, and modern JavaScript.
-I enjoy designing systems, automating workflows, and understanding how things work under the hood.
+I’m **Rauneet Singh**, a Computer Science undergraduate at **BCET** (AI & ML, 2024–2028). I build backend services and work on the infrastructure that runs them: authentication, containers, deployment automation, GPU workloads, and monitoring.
 
-## 🧠 What I’m working on
-- 🛠 Building **backend services & APIs**
-- ☁️ Learning **DevOps fundamentals** (Linux, Git, CI/CD, cloud basics)
-- ⚙️ Automating workflows using **n8n**
-- 📐 Improving system design & scalability thinking
+I’m interested in the whole lifecycle of a service—how it handles a request, how it gets deployed, and what happens when something fails.
 
----
+### A contribution merged into Jenkins Core
 
-## 💻 Tech Stack
+**[PR #26966 · Fix missing event parameter in a keyboard handler](https://github.com/jenkinsci/jenkins/pull/26966)**
 
-### Languages & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</p>
+Replaced reliance on `window.event` with an explicit event argument in a dropdown keyboard handler. Worked through maintainer review; merged into Jenkins Core on **21 June 2026**.
 
-### Tools & Automation
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-</p>
+## Selected work
 
-### Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/Databases-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Databases" />
-  <img src="https://img.shields.io/badge/System%20Design-005571?style=for-the-badge&logoColor=white" alt="System Design" />
-  <img src="https://img.shields.io/badge/Cloud%20Fundamentals-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Cloud" />
-</p>
+### 01 &nbsp; MAIRS v2
 
----
+**Infrastructure for a multi-agent incident-response prototype.**
 
-## 🚀 Projects
+My focus was GPU infrastructure and deployment: DigitalOcean GPU Droplets, containerized services, and monitoring with Prometheus and Grafana. I wrote lifecycle scripts to restore models and vector data from DigitalOcean Spaces, then back them up before tearing down compute between runs.
 
-| Project | Description |
-| ------- | ----------- |
-| 🌐 **CodeAndClick** | Web development & digital solutions agency |
-| 🤖 **Automation Pipelines** | AI + n8n based workflow experiments |
-| ⚡ **Full-stack Web Apps** | Backend-driven applications with clean APIs |
+`Docker` · `DigitalOcean` · `Bash` · `Prometheus` · `Grafana`
 
----
+**[Explore the project ↗](https://github.com/Rauneet-coder/mairs-v2)** &nbsp; · &nbsp; [Restore script](https://github.com/Rauneet-coder/mairs-v2/blob/main/setup.sh) &nbsp; · &nbsp; [Save & teardown script](https://github.com/Rauneet-coder/mairs-v2/blob/main/save_and_destroy.sh)
 
-## 📊 GitHub Activity
+### 02 &nbsp; Encrypted document exchange
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rauneet-coder&show_icons=true&theme=tokyonight&hide_border=true" alt="Rauneet's GitHub Stats" />
-</div>
+**A prototype for document confidentiality and verifiable provenance.**
 
-<br />
+SIH-237 explores encrypted document sharing, recipient key wrapping, and a signed provenance trail. It combines a Node.js API, a Next.js interface, and containerized services. The repository documents which capabilities are implemented and which still need infrastructure or further validation.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rauneet-coder&theme=tokyonight&hide_border=true" alt="Rauneet's GitHub Streak" />
-</div>
+`Node.js` · `Express` · `MongoDB` · `Next.js` · `Docker`
 
-<br />
+**[Explore the project ↗](https://github.com/Rauneet-coder/SIH-237)** &nbsp; · &nbsp; [Implementation status](https://github.com/Rauneet-coder/SIH-237/blob/main/docs/engineering/PROJECT_STATE.md)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rauneet-coder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+### 03 &nbsp; CourseHub
 
-> *Stats may lag due to GitHub API caching. Consistency > streaks.*
+**A learning project connecting a course catalog to a backend API.**
 
----
+Built with Node.js, Express, and MongoDB, with JWT authentication, bcrypt password hashing, Zod validation, and separate student and administrator routes. A practical place to work on API structure and the connection between frontend and backend.
 
-<div align="center">
-  📫 <b>Let's connect:</b> <a href="mailto:Rauneetsingh1903@gmail.com">Rauneetsingh1903@gmail.com</a>
-</div>
+`JavaScript` · `Express` · `MongoDB` · `JWT` · `Zod`
+
+**[Explore the project ↗](https://github.com/Rauneet-coder/Backend-CourseSelling-App)**
+
+## My working toolkit
+
+| Layer | Tools I work with |
+| :--- | :--- |
+| **Backend** | JavaScript, Node.js, Express, REST APIs, JWT, bcrypt, Zod |
+| **Data** | MongoDB / Mongoose, PostgreSQL / Prisma |
+| **Delivery & infrastructure** | Docker, Kubernetes, Jenkins, GitHub Actions, Linux, Bash, DigitalOcean |
+| **Observability** | Prometheus, Grafana |
+
+## What I’m building toward
+
+Deepening my understanding of system design, cloud infrastructure, and reliable delivery. I’m looking for **backend or DevOps internships** and opportunities to contribute to **open source**.
+
+If your team works on APIs, developer tools, infrastructure, or AI systems, I’d like to hear what you’re building.
+
+**[LinkedIn](https://www.linkedin.com/in/rauneet-singh-85369428b/)** &nbsp; · &nbsp; **[Email](mailto:rauneetsingh1903@gmail.com)** &nbsp; · &nbsp; **[More repositories](https://github.com/Rauneet-coder?tab=repositories)**

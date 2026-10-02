@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="500" viewBox="0 0 1280 500" role="img" aria-labelledby="title desc">
+<title id="title">Rauneet Singh — Backend, DevOps, Open Source</title>
+<desc id="desc">A personal engineering profile. Build APIs, ship containers, and observe systems, connected by a feedback loop.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#55676c" stroke-opacity=".075" stroke-width="1"/></pattern></defs>
+<rect width="1280" height="500" rx="14" fill="#f5f2eb"/>
+<rect x="1" y="1" width="1278" height="498" rx="13" fill="url(#grid)" stroke="#c8d0cc" stroke-width="1"/>
+<text x="56" y="47" fill="#55676c" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="14" font-weight="500" letter-spacing="1.8">RS / ENGINEERING</text>
+<text x="1020" y="47" fill="#55676c" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="13" font-weight="500" letter-spacing="1.4">RAUNEET-CODER</text>
+<path d="M 56 71 h 1168" fill="none" stroke="#c8d0cc" stroke-width="1" />
+<text x="53" y="183" fill="#17252c" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="101" font-weight="700" letter-spacing="-4.7">Rauneet</text>
+<text x="53" y="286" fill="#17252c" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="101" font-weight="700" letter-spacing="-4.7">Singh.</text>
+<text x="59" y="351" fill="#55676c" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="25" font-weight="450" letter-spacing="-.4">From API to infrastructure.</text>
+<text x="59" y="438" fill="#23765e" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="15" font-weight="500" letter-spacing=".85">BACKEND / DEVOPS / OPEN SOURCE</text>
+<path d="M 56 396 h 558" fill="none" stroke="#c8d0cc" stroke-width="1" />
+<path d="M 730 116 h -18 v 257 h 18" fill="none" stroke="#c8d0cc" stroke-width="1.5" />
+<text x="768" y="110" fill="#55676c" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="12" font-weight="500" letter-spacing="1.1">THE WORK BEHIND THE SYSTEM</text>
+<rect x="766" y="128" width="406" height="74" rx="6" fill="#eeeee5" stroke="#c8d0cc"/>
+<text x="786" y="155" fill="#9d622b" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="12" font-weight="500">01</text>
+<text x="824" y="157" fill="#17252c" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="17" font-weight="600" letter-spacing="1">BUILD</text>
+<text x="824" y="181" fill="#55676c" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" font-weight="400">APIs &amp; authentication</text>
+<path d="M 969 202 v 20" fill="none" stroke="#23765e" stroke-width="1.8" />
+<path d="M 965 217 l 4 5 4 -5" fill="none" stroke="#23765e" stroke-width="1.8" />
+<rect x="766" y="222" width="406" height="74" rx="6" fill="#eeeee5" stroke="#c8d0cc"/>
+<text x="786" y="249" fill="#9d622b" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="12" font-weight="500">02</text>
+<text x="824" y="251" fill="#17252c" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="17" font-weight="600" letter-spacing="1">SHIP</text>
+<text x="824" y="275" fill="#55676c" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" font-weight="400">Containers &amp; automation</text>
+<path d="M 969 296 v 20" fill="none" stroke="#23765e" stroke-width="1.8" />
+<path d="M 965 311 l 4 5 4 -5" fill="none" stroke="#23765e" stroke-width="1.8" />
+<rect x="766" y="316" width="406" height="74" rx="6" fill="#eeeee5" stroke="#c8d0cc"/>
+<text x="786" y="343" fill="#9d622b" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="12" font-weight="500">03</text>
+<text x="824" y="345" fill="#17252c" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="17" font-weight="600" letter-spacing="1">OBSERVE</text>
+<text x="824" y="369" fill="#55676c" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" font-weight="400">Metrics &amp; incident response</text>
+<path d="M 1172 353 h 26 V 165 h -26" fill="none" stroke="#23765e" stroke-width="1.5" stroke-dasharray="5 5"/>
+<path d="M 1179 161 l -7 4 7 4" fill="none" stroke="#23765e" stroke-width="1.5" />
+<text x="790" y="438" fill="#55676c" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="12" font-weight="450" letter-spacing="1.3">FEEDBACK → IMPROVEMENT</text>
+<path d="M 1224 420 v 26 h -26" fill="none" stroke="#9d622b" stroke-width="2" />
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="610" viewBox="0 0 720 610" role="img" aria-labelledby="title desc">
+<title id="title">Rauneet Singh — Backend, DevOps, Open Source</title>
+<desc id="desc">A personal engineering profile. Build APIs, ship containers, and observe systems, connected by a feedback loop.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#a6b5b9" stroke-opacity=".075" stroke-width="1"/></pattern></defs>
+<rect width="720" height="610" rx="14" fill="#101a20"/>
+<rect x="1" y="1" width="718" height="608" rx="13" fill="url(#grid)" stroke="#33474e" stroke-width="1"/>
+<text x="42" y="48" fill="#a6b5b9" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="18" font-weight="500" letter-spacing="1.6">RS / ENGINEERING</text>
+<path d="M 647 30 h 30 v 30 M 30 554 v 26 h 26" fill="none" stroke="#dfac72" stroke-width="2" />
+<text x="42" y="164" fill="#f4f0e7" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="100" font-weight="700" letter-spacing="-4">Rauneet</text>
+<text x="42" y="265" fill="#f4f0e7" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="100" font-weight="700" letter-spacing="-4">Singh.</text>
+<text x="44" y="319" fill="#a6b5b9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="27" font-weight="450" letter-spacing="-.3">From API to infrastructure.</text>
+<text x="44" y="361" fill="#8bd1b8" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="18" font-weight="500" letter-spacing="1">BACKEND / DEVOPS / OPEN SOURCE</text>
+<rect x="42" y="410" width="192" height="103" rx="8" fill="#14242b" stroke="#33474e"/>
+<text x="60" y="441" fill="#dfac72" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="16" font-weight="450">01</text>
+<text x="60" y="483" fill="#f4f0e7" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="23" font-weight="600" letter-spacing="1">BUILD</text>
+<path d="M 234 461 h 30" fill="none" stroke="#8bd1b8" stroke-width="2" />
+<path d="M 258 457 l 5 4 -5 4" fill="none" stroke="#8bd1b8" stroke-width="2" />
+<rect x="264" y="410" width="192" height="103" rx="8" fill="#14242b" stroke="#33474e"/>
+<text x="282" y="441" fill="#dfac72" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="16" font-weight="450">02</text>
+<text x="282" y="483" fill="#f4f0e7" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="23" font-weight="600" letter-spacing="1">SHIP</text>
+<path d="M 456 461 h 30" fill="none" stroke="#8bd1b8" stroke-width="2" />
+<path d="M 480 457 l 5 4 -5 4" fill="none" stroke="#8bd1b8" stroke-width="2" />
+<rect x="486" y="410" width="192" height="103" rx="8" fill="#14242b" stroke="#33474e"/>
+<text x="504" y="441" fill="#dfac72" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="16" font-weight="450">03</text>
+<text x="504" y="483" fill="#f4f0e7" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="23" font-weight="600" letter-spacing="1">OBSERVE</text>
+<path d="M 582 513 v 26 H 138 v -26" fill="none" stroke="#a6b5b9" stroke-width="1.5" stroke-dasharray="5 5"/>
+<text x="198" y="578" fill="#a6b5b9" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="18" font-weight="450" letter-spacing="1">FEEDBACK → IMPROVEMENT</text>
+</svg>
