@@ -14,7 +14,7 @@
 
 ## From API to infrastructure
 
-I’m **Rauneet Singh**, a Computer Science undergraduate at **BCET** (AI & ML, 2024–2028). I build backend services and work on the infrastructure that runs them: authentication, containers, deployment automation, GPU workloads, and monitoring.
+I’m **Rauneet Singh**, a Computer Science undergraduate at **BCET** (CSE, 2024–2028). I build backend services and work on the infrastructure that runs them: authentication, containers, deployment automation, GPU workloads, and monitoring.
 
 I’m interested in the whole lifecycle of a service—how it handles a request, how it gets deployed, and what happens when something fails.
 
